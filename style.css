@@ -10,7 +10,7 @@ h2{
    background-color: #fff;
    width:32%;
 }
-#tab button {
+#tab button{
    background-color: inherit;
    border: none;
    outline: none;
@@ -21,8 +21,6 @@ h2{
    width:100%;
    font-size: 15px;
    border: 1px solid #000;
-}
-#tab button.active {
 }
 .tabcontent {
    display: none;
@@ -45,4 +43,14 @@ h2{
 }
 #short{
   font-size: 13px;
+}
+#sorting{
+  width: 32%;
+  text-align: center;
+}
+.sort{
+  width: 33.3%;
+  padding:0px;
+  margin: 0px;
+  background-color: #cddc89;
 }

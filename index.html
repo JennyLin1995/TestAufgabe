@@ -10,12 +10,13 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body onload="init()">
-<button id="sortDateNew" onclick="sortData(sortDateNewest)">Date Newest</button>
-<button id="sortDateOld" onclick="sortData(sortDateOldest)">Date Oldest</button>
-<button id="sortLevel" onclick="sortData(sortLevel)">Level</button>
 <div id="content">
 </div>
+<div id="sorting">
+<button id="sortDateNew" class="sort" onclick="sortData(sortDateNewest)">Date Newest</button><button id="sortDateOld" class="sort" onclick="sortData(sortDateOldest)">Date Oldest</button><button id="sortLevel" class="sort" onclick="sortData(sortLevel)">Level</button>
+</div>
   <div id="tab">
+
   </div>
 </body>
 </html>
