@@ -1,0 +1,48 @@
+h1{
+  font-size: 30px;
+}
+h2{
+  font-size: 20px;
+}
+#tab {
+   overflow: hidden;
+   border: 1px solid #ccc;
+   background-color: #fff;
+   width:32%;
+}
+#tab button {
+   background-color: inherit;
+   border: none;
+   outline: none;
+   cursor: pointer;
+   transition: 0.3s;
+   display: block;
+   text-align: left;
+   width:100%;
+   font-size: 15px;
+   border: 1px solid #000;
+}
+#tab button.active {
+}
+.tabcontent {
+   display: none;
+   border-top: none;
+   padding-right: 10%;
+}
+.tabcontent > p {
+  text-align: justify;
+}
+#content{
+  width:65%;
+  position: fixed;
+  left: 35%;
+}
+#level{
+  font-size: 12px;
+}
+#link, #see{
+  font-size: 12px;
+}
+#short{
+  font-size: 13px;
+}

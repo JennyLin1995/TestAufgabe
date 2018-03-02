@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<!-- -->
+  <script type="text/javascript" src="jquery-3.3.1.js" ></script>
+  <script type="text/javascript" src="script.js" ></script>
+  <script type="text/javascript" src="source.json" ></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="init()">
+<button id="sortDateNew" onclick="sortData(sortDateNewest)">Date Newest</button>
+<button id="sortDateOld" onclick="sortData(sortDateOldest)">Date Oldest</button>
+<button id="sortLevel" onclick="sortData(sortLevel)">Level</button>
+<div id="content">
+</div>
+  <div id="tab">
+  </div>
+</body>
+</html>

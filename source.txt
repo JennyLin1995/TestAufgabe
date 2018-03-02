@@ -1,0 +1,487 @@
+[{"published_date":"1519888500","level":"1","title":"Angeblicher
+ 500 \u20ac Amazon Gutschein-Gewinn auf Facebook","body":"Eine
+Facebookseite mit dem Namen \u201eAmazon.de Kundenservice\u201c markiert
+ derzeit unter einem Statusbeitrag unz\u00e4hlige Facebook-Nutzer \u2013
+ der angebliche Grund: Jeder markierte Nutzer habe einen 500 \u20ac
+Gutschein bei Amazon gewonnen. Um den Gutschein zu erhalten,
+m\u00fcssten die Gewinner nur auf die verlinkte Seite gehen und ein
+Formular ausf\u00fcllen.\r\n\r\nTats\u00e4chlich haben weder die
+Facebook-Seite noch das Formular etwas mit Amazon zu tun \u2013 und es
+ist sehr zweifelhaft, ob es die 500 \u20ac Gutscheine \u00fcberhaupt
+gibt. Sehr wahrscheinlich stehen hinter der Seite und der angeblichen
+Gewinnspielaktion betr\u00fcgerische Adresssammler, die \u00fcber das
+Formular an sensible Daten der markierten \u201eGewinner\u201c gelangen
+wollen, um diese anschlie\u00dfend weiter zu verkaufen.\r\n\r\nImmer
+wieder gibt es in sozialen Netzwerken unseri\u00f6se Gewinnspiele und
+Versuche, mithilfe vorget\u00e4uschter Tatsachen Menschen in Abofallen
+zu locken oder an deren Daten zu gelangen. SiBa r\u00e4t deshalb bei
+solchen Seiten und Posts immer zu gro\u00dfer Vorsicht - pr\u00fcfen Sie
+ sorgf\u00e4ltig, ob die Facebook-Seite echt ist: Gibt es auf der Seite
+ein Impressum? Wie alt ist die Seite\/das Profil? Was f\u00fcr Inhalte
+wurden in der Vergangenheit
+ver\u00f6ffentlicht?","categories":["127","124","126"],
+"url_action":[
+{"url":"https:\/\/www.polizei-praevention.de\/themen-und-tipps\/soziale-netzwerke-chats.html","title":"Informationen zu Gewinnspielen in sozialen Netzwerken"},
+{"url":"https:\/\/www.polizei-praevention.de\/themen-und-tipps\/betrug.html#c869","title":"Informationen zu Abofallen"}],
+"url_explanation":[{"url":"https:\/\/www.polizei-praevention.de\/themen-und-tipps\/ihr-weg-zur-strafanzeige.html","title":"Hilfe-Tipps
+ beim Ratgeber
+Internetkriminalit\u00e4t"}],"id":"2198"},
+
+
+{"published_date":"1519380000","level":"1","title":"Betr\u00fcger
+ rufen als angeblicher Microsoft-Support an","body":"Immer wieder
+versuchen Kriminelle als angeblicher Microsoft-Support Nutzer von
+Windows zu betr\u00fcgen. Mit dem erfundenen Vorwand, der PC des
+Betroffenen sei von einem Virus befallen, nutze eine abgelaufene Lizenz
+oder habe andere technische Schwierigkeiten, wird der Angerufene dazu
+aufgefordert, eine Fernwartungssoftware zu installieren.
+Tats\u00e4chlich nutzen die Betr\u00fcger die Fernwartungsverbindung
+jedoch, um Schadsoftware zu installieren und Daten
+auszusp\u00e4hen.\r\n\r\nDar\u00fcber hinaus werden Betroffene im
+Anschluss h\u00e4ufig f\u00fcr die angeblich erbrachte Dienstleistung
+zur Kasse gebeten \u2013 per Kreditkarte oder
+Online-Banking-\u00dcberweisung. Dabei werden in der Regel deutlich
+h\u00f6here Summen abgebucht, als am Telefon besprochen. SiBa r\u00e4t,
+bei entsprechenden Anrufen umgehend aufzulegen - Microsoft ruft nie
+unaufgefordert bei Verbrauchern an, um technische Probleme zu
+l\u00f6sen.\r\n\r\nSollten Sie bereits Fremden einen Fernwartungszugriff
+ auf Ihren PC erm\u00f6glicht haben, sollten Sie das Ger\u00e4t umgehend
+ auf Schadsoftware \u00fcberpr\u00fcfen und \u00fcber ein anderes
+Ger\u00e4t Ihre Zugangsdaten f\u00fcr Online-Konten (E-Mails,
+Online-Banking, Online-Shops etc.) \u00e4ndern. Microsoft bittet
+dar\u00fcber hinaus, entsprechende Vorf\u00e4lle \u00fcber das unten
+verlinkte Formular zu melden um rechtlich gegen dahinterstehende Call
+Center vorgehen zu
+k\u00f6nnen.","categories":["128","123","127","131"],
+"url_action":[{"url":"https:\/\/answers.microsoft.com\/de-de\/windows\/forum\/windows_7-ecoms\/betrugsversuch-angeblicher-anruf-vom-microsoft\/f542c80c-5455-4b18-bc70-24fac870f1a9?auth=1","title":"Informationen
+ zur Betrugsmasche bei
+Microsoft"}],"url_explanation":[{"url":"http:\/\/answers.microsoft.com\/de-de\/protect\/wiki\/protect_other-protect_scanning\/was-mache-ich-bei-befall-mit-schadsoftware\/20b9e87c-b52d-4420-999d-272c83739f9b","title":"Hinweise
+ zum Verhalten bei
+Schadsoftwarebefall"},{"url":"https:\/\/www.microsoft.com\/de-de\/reportascam\/?locale=de-DE","title":"Betr\u00fcgerischen
+ technischen Support
+melden"}],"id":"2195"},
+
+{"published_date":"1519288200","level":"1","title":"Sicherheitsl\u00fccken
+ in uTorrent Web \u0026 Classic","body":"Mithilfe von BitTorrent lassen
+sich dezentral gro\u00dfe Dateien \u00fcber das Internet austauschen. Um
+ sich mit dem Netzwerk zu verbinden, braucht man einen sogenannten
+BitTorrent-Client. Bei zwei solcher Clients \u2013 uTorrent Web sowie
+uTorrent Classic haben Forscher nun eine schwerwiegende Schwachstelle
+gefunden.\r\n\r\nMithilfe der L\u00fccke k\u00f6nnten Angreifer Daten
+ausspionieren und sogar Schadcode auf den Rechner aufspielen \u2013
+daf\u00fcr muss ein uTorrent-Nutzer nur auf eine entsprechend
+pr\u00e4parierte Webseite gelotst werden, w\u00e4hrend der Client
+l\u00e4uft. Insbesondere bei der Web-Version ist dies gef\u00e4hrlich,
+denn sie startet standardm\u00e4\u00dfig beim Start von Windows und
+l\u00e4uft direkt im Webbrowser.\r\n\r\nDie Entwickler der Clients
+arbeiten bereits an Sicherheitsupdates, die die L\u00fccke
+schlie\u00dfen \u2013 f\u00fcr uTorrent Classic ist dies mit der
+Beta-Version 3.5.3 bereits erfolgt. Dieses sollten Nutzer umgehend
+installieren. F\u00fcr uTorrent Web gibt es zwar schon ein Update,
+dieses sei jedoch laut Sicherheitsexperten noch nicht ausreichend
+gesichert. SiBa r\u00e4t deshalb, auf die Nutzung des Web-Clients
+vorerst zu verzichten.\r\n\r\nDar\u00fcber hinaus empfiehlt SiBa
+grunds\u00e4tzlich, unseri\u00f6se Seiten im Netz zu vermeiden.
+\u00dcber BitTorrent werden neben vielen legalen Inhalten und Daten auch
+ Raubkopien und andere zweifelhafte Dateien verbreitet \u2013 und hier
+fungieren oftmals zwielichtige Webseiten als Verteiler, bei denen das
+Risiko einer Schadsoftwareinfektion
+steigt.","categories":["128","123"],
+"url_action":[{"url":"https:\/\/www.heise.de\/security\/meldung\/Sicherheitsforscher-empfiehlt-BitTorrent-Client-uTorrent-Web-vorerst-nicht-zu-nutzen-3975222.html","title":"Artikel
+ zur L\u00fccke bei
+heise.de"}],"url_explanation":[{"url":"http:\/\/utclient.utorrent.com\/offers\/beta_release_notes\/release_notes.html","title":"Seite
+ mit Download-Link f\u00fcr uTorrent Beta
+3.5.3"}],"id":"2194"},
+
+
+
+{"published_date":"1519110900","level":"1","title":"Abo-Falle
+ f\u00fcr KMU: Ver\u00f6ffentlichung der USt-IdNr.","body":"Aktuell
+erhalten viele Unternehmen eine E-Mail mit dem Betreff
+\u201eVer\u00f6ffentlichung der
+Umsatzsteuer-Identifikationsnummer\u201c. In dieser wird auf eine
+angebliche Online-Datenbank mit entsprechenden Daten hingewiesen und der
+ Eindruck erweckt, eine Eintragung dort sei aufgrund von EU-Richtlinien
+rechtlich verpflichtend.\r\n\r\nIn diesem Zusammenhang wird der
+Empf\u00e4nger gebeten, die hinterlegten Daten zu \u00fcberpr\u00fcfen
+und zu best\u00e4tigen. Aufgrund der Formulierungen und Wortwahl
+entsteht der Eindruck, dass es sich um ein offizielles Schreiben handelt
+ \u2013 dieser Eindruck wird best\u00e4rkt, wenn man dem hinterlegten
+Link folgt: Auf der Webseite erscheint ein Formular, in dem schon einige
+ Daten vorausgef\u00fcllt sind.\r\n\r\nTats\u00e4chlich steht hinter der
+ Seite jedoch eine Abo-Falle eines angeblichen Unternehmens aus
+Bulgarien. Im Kleingedruckten verstecken sich die Geb\u00fchren: 75
+\u20ac im Monat bzw. 900 \u20ac netto pro Jahr bei einer Laufzeit von
+zwei Jahren mit automatischer Verl\u00e4ngerung. Eine tats\u00e4chliche
+Gegenleistung ist nicht erkennbar.\r\n\r\nSiBa r\u00e4t bei solchen und
+\u00e4hnlichen E-Mails zu gro\u00dfer Vorsicht: Selbst wenn Inhalt und
+Form offiziell und authentisch wirken, k\u00f6nnen Sie in der Regel
+davon ausgehen, dass entsprechende \u00c4mter und Beh\u00f6rden Sie nur
+per Post kontaktieren. \u00d6ffnen Sie im Zweifel also keine Links oder
+Dokumente in der Mail \u2013 im harmlosesten Fall handelt es sich nur um
+ Spam, im schlimmsten Fall verbirgt sich im Anhang oder auf der Webseite
+ jedoch Schadsoftware.\r\n\r\nSollten Sie als Gewerbetreibender in eine
+Abo-Falle getappt sein, kontaktieren Sie umgehend einen Anwalt und
+widerrufen Sie den Vertrag \u2013 hier gelten andere rechtliche
+Grundlagen als bei
+Privatpersonen.","categories":["128","130","131"],
+"url_action":[{"url":"https:\/\/www.polizei-praevention.de\/aktuelles\/veroeffentlichung-der-umsatzsteuer-identifikationsnummer.html","title":"Warnhinweis
+ beim Ratgeber
+Internetkriminalit\u00e4t"}],"url_explanation":[{"url":"https:\/\/www.ihk-berlin.de\/blob\/bihk24\/Service-und-Beratung\/recht_und_steuern\/downloads\/3302852\/a33b9182759b240863dfd6e134767691\/Merkblatt-Adressbuchschwindel-data.pdf","title":"Merkblatt
+ Abo-Falle der
+IHK-Berlin"}],"id":"2192"},
+
+
+
+
+{"published_date":"1518780600","level":"1","title":"Webbrowser
+ Chrome mit Sicherheitsupdate","body":"Im Internetbrowser Chrome ist
+eine Sicherheitsl\u00fccke entdeckt worden, die eine Ausf\u00fchrung von
+ Schadcodes auf dem Rechner des Nutzers erm\u00f6glicht h\u00e4tte.
+Ebenfalls betroffen ist die Open Source Variante Chromium. Das
+Sicherheitsteam Project Zero vom Anbieter Google ist auf die
+Schwachstelle gesto\u00dfen und stellt nun ein Sicherheitsupdate
+bereit.\r\n\r\nBisher wurden keine Vorf\u00e4lle bekannt, bei denen
+diese von Angreifern ausgenutzt wurde.  Die Sicherheitsl\u00fccke stufen
+ Experten des Computer-Notfallteams des Bundesamts f\u00fcr Sicherheit
+in der Informationstechnik jedoch als kritisch ein. \r\n\r\nAktuelle
+Versionen des Chrome Browsers werden in den n\u00e4chsten Tagen
+automatisch aktualisiert. Wenn Sie das Update beschleunigen wollen,
+geben Sie in der Adresszeile des Browsers Chrome folgendes ein:
+chrome:\/\/settings\/help und starten das
+Update.\r\n","categories":["129","128","130","125","127","124","126","131"],
+"url_action":[{"url":"http:\/\/www.computercheck24.com\/visor\/extern\/sparkasse-computercheck\/index.html","title":"Zum
+ Sicherheitscheck f\u00fcr Computer und
+Handy"}],"url_explanation":[{"url":"https:\/\/praxistipps.chip.de\/browser-selbst-updaten-so-gehts_10027","title":"Hinweise
+ zum Updaten von
+Internetbrowsern"}],"id":"2191"},
+
+
+
+{"published_date":"1518431400","level":"0","title":"Facebook:
+ Following Me-Beitr\u00e4ge sind Falschmeldungen","body":"Derzeit
+verbreitet sich auf Facebook ein Statusbeitrag, der angeblich f\u00fcr
+mehr Sicherheit sorgen soll \u2013 der Inhalt ist aber kompletter
+Unsinn. Nutzer sollen, so der Beitrag, in ihren Facebook-Einstellungen
+bei \u201eblockieren\u201c in das Textfeld \u201efollowing me\u201c ohne
+ Anf\u00fchrungszeichen eingeben. Die Ergebnisliste zeigt dann
+unbekannte Personen, die dem Nutzer angeblich folgen um dessen Konto
+potenziell zu hacken.\r\n\r\nDas ist jedoch v\u00f6llig frei erfunden
+und hat nichts mit der Funktionsweise der Ergebnisliste zu tun. Facebook
+ zeigt dort n\u00e4mlich nur Konten an, die irgendwo im Profil die Worte
+ \u201efollowing\u201c oder \u201eme\u201c verwendet haben. Es handelt
+sich also nicht um heimliche Follower oder Hacker.\r\n\r\nBesonders
+abstrus: Teilt man diese angebliche Warnung selbst, weil man andere
+warnen m\u00f6chte, taucht man selbst in den Ergebnislisten bei anderen
+Nutzern auf \u2013 schlie\u00dflich hat man jetzt einen Post mit den
+Worten \u201efollowing me\u201c geteilt.\r\n\r\nSiBa r\u00e4t, den
+Inhalt dieser Beitr\u00e4ge zu ignorieren sowie Bekannte und Freunde
+\u00fcber die Falschmeldung aufzukl\u00e4ren, wenn diese sie verbreiten.
+ Grunds\u00e4tzlich sollte man bei solchen Warnungen und Kettenbriefen
+sorgf\u00e4ltig pr\u00fcfen, ob ihr Inhalt der Wahrheit entsprecht,
+bevor man sie weiter verbreitet \u2013 gerade in sozialen Netzwerken und
+ \u00fcber Messenger werden immer wieder Falschmeldungen
+verbreitet.","categories":["128","123","126","131"],
+"url_action":[{"url":"https:\/\/www.mimikama.at\/allgemein\/following-me\/","title":"Artikel
+ zur Falschmeldung bei
+mimikama.at"}],"url_explanation":[{"url":"https:\/\/www.mimikama.at\/","title":"Aktuelle
+ Meldungen von
+mimikama.at"}],"id":"2186"},
+
+
+
+{"published_date":"1518185700","level":"1","title":"Gut
+ gef\u00e4lschte Phishing-Mails zielen auf Apple-ID ab","body":"Mit
+Hilfe von Phishing-Mails versuchen Betr\u00fcger regelm\u00e4\u00dfig an
+ sensible Daten zu gelangen. Mit angeblichen offenen Zahlungen,
+Kontosperrungen, Mahnungen oder \u00e4hnlichen Vorw\u00e4nden werden die
+ Empf\u00e4nger dazu gebracht, in der Nachricht verlinkte, aber
+ebenfalls gef\u00e4lschte Webseiten zu \u00f6ffnen. Die dort
+eingegebenen Angaben landen dann direkt bei den
+Betr\u00fcgern.\r\n\r\nH\u00e4ufig sind solche Nachrichten schnell als
+F\u00e4lschungen erkennbar \u2013 das optische Erscheinungsbild,
+Rechtschreibung, Grammatik und Wortwahl lassen oft zu w\u00fcnschen
+\u00fcbrig und s\u00e4en Zweifel an der Authentizit\u00e4t der E-Mail.
+Doch manche Phishing-Mails sind so gut gef\u00e4lscht, dass man erst auf
+ den zweiten Blick erkennt, dass Betr\u00fcger am Werk sind.\r\n\r\nSo
+werden derzeit gef\u00e4lschte Abo-Best\u00e4tigungen an Apple-Nutzer
+geschickt und behaupten, dass ein zahlungspflichtiges Musik-Abo bei
+einem Streaming-Dienst abgeschlossen wurde. Praktischerweise liefert die
+ E-Mail gleich einen Link mit, \u00fcber den man das Abonnement beenden
+oder stornieren kann \u2013 doch der Link f\u00fchrt nur auf eine
+ebenfalls gef\u00e4lschte Webseite. Gibt man dort Apple-ID und Passwort
+ein, haben die Betr\u00fcger Zugriff auf das Konto.\r\n\r\nSowohl E-Mail
+ als auch Webseite sind optisch dem Original t\u00e4uschend \u00e4hnlich
+ und es ist nicht unmittelbar erkennbar, dass es sich um eine
+F\u00e4lschung handelt. SiBa r\u00e4t deshalb bei unerwarteten
+Rechnungen, Mahnungen oder \u00e4hnlichen Nachrichten zu gro\u00dfer
+Vorsicht: Kontaktieren Sie den angeblichen Absender per Telefon, um den
+Sachverhalt zu kl\u00e4ren. Dies gilt insbesondere, wenn Sie bereits
+Daten auf einer m\u00f6glicherweise gef\u00e4lschten Seite eingegeben
+haben.","categories":["128","123","127","131"],
+"url_action":[{"url":"https:\/\/www.polizei-praevention.de\/aktuelles\/gefaelschte-abo-rechnungen-fuer-musik-dienste.html","title":"Warnhinweis
+ beim Ratgeber
+Internetkriminalit\u00e4t"}],"url_explanation":[{"url":"https:\/\/support.apple.com\/de-de\/HT204759","title":"Apple-Seite
+ zum Thema
+Phishing"},{"url":"https:\/\/getsupport.apple.com\/","title":"Apple-Support
+
+kontaktieren"}],"id":"2184"},
+
+
+
+{"published_date":"1517902200","level":"1","title":"Adobe
+ schlie\u00dft kritische Sicherheitsl\u00fccke in Flash","body":"Das
+Multimedia-Plugin Flash f\u00e4llt immer wieder durch kritische
+Sicherheitsl\u00fccken auf. Zwar ver\u00f6ffentlicht der Hersteller
+Adobe regelm\u00e4\u00dfig Sicherheitsupdates, doch nicht immer kommen
+sie dabei Angreifern zuvor.\r\n\r\nSo haben auch dieses Mal
+Sicherheitsforscher eine Schwachstelle entdeckt, die offenbar schon von
+Angreifern ausgenutzt wurde \u2013 unter anderem soll eine
+nordkoreanische Gruppe mithilfe der Sicherheitsl\u00fccke Angriffe auf
+wichtige Institutionen in S\u00fcdkorea ausgef\u00fchrt haben. Ob auch
+Kriminelle in Deutschland die L\u00fccke schon ausgenutzt haben, ist
+bislang unklar.\r\n\r\nSiBa r\u00e4t dennoch, das von Adobe
+ver\u00f6ffentlichte Update auf die Version 28.0.0.161 so schnell wie
+m\u00f6glich zu installieren. Dar\u00fcber hinaus ist generell Vorsicht
+bei der Nutzung von Flash empfohlen - das Programm f\u00e4llt immer
+wieder durch gravierende Sicherheitsl\u00fccken auf und wird deshalb von
+ Angreifern gerne als Einfallstor genutzt. Als Schutzma\u00dfnahme
+l\u00e4sst sich die automatische Ausf\u00fchrung von Flash in den
+meisten Browsern deaktivieren, sodass Flash immer nur nach
+Best\u00e4tigung des Nutzers ausgef\u00fchrt wird (sogenanntes
+\u201cClick-to-Play\u201d).","categories":["128","123","127","131"],
+"url_action":[{"url":"http:\/\/www.tecchannel.de\/a\/adobe-flash-player-sicher-auf-pc-notebook-oder-tablet-nutzen,2078739","title":"Anleitung
+ f\u00fcr Click-to-Play f\u00fcr Internet Explorer, Firefox und
+Chrome"}],"url_explanation":[{"url":"https:\/\/get.adobe.com\/de\/flashplayer\/","title":"Download
+ des aktuellen Adobe
+Flash-Plugins"}],"id":"2177"},
+
+
+
+{"published_date":"1517814900","level":"1","title":"Meltdown
+ \u0026 Spectre: Schadsoftware entdeckt, aber (noch) keine
+Angriffe","body":"Mit \u201eMeltdown\u201c und \u201eSpectre\u201c haben
+ Sicherheitsforscher Anfang Januar zwei Angriffsm\u00f6glichkeiten
+entdeckt, mit deren Hilfe sich kritische Schwachstellen in nahezu allen
+Prozessoren ausnutzen lassen (siehe SiBa-Meldung vom 04.01.2018).
+Tats\u00e4chliche Angriffe, die diese Schwachstellen ausnutzen, wurden
+jedoch bislang nicht entdeckt.\r\n\r\nDas k\u00f6nnte sich nun
+\u00e4ndern: Sicherheitsforscher haben inzwischen verschiedene
+Schadsoftware-Varianten gefunden, die auf Meltdown und Spectre aufbauen.
+ Die meisten werden von den Forschern jedoch als \u201eTestballons\u201c
+ verbucht, mit denen Angreifer die M\u00f6glichkeiten der Schwachstellen
+ ausloten wollen. Damit steigt allerdings auch die Wahrscheinlichkeit,
+dass in naher Zukunft konkrete Angriffe erfolgen.\r\n\r\nDabei ist davon
+ auszugehen, dass die Angriffe vorwiegend \u00fcber pr\u00e4parierte
+Webseiten erfolgen \u2013 das Einfallstor w\u00e4re in solch einem Fall
+in erster Linie der verwendete Webbrowser. SiBa r\u00e4t deshalb
+dringend dazu, den Webbrowser immer auf dem aktuellen Stand zu halten.
+Dar\u00fcber hinaus ver\u00f6ffentlichen Prozessor- und
+Betriebssystem-Hersteller Updates f\u00fcr ihre Systeme \u2013 auch
+diese sollten so schnell wie m\u00f6glich installiert
+werden.","categories":["128","123","127","131"],
+"url_action":[{"url":"https:\/\/www.heise.de\/security\/meldung\/FAQ-zu-Meltdown-und-Spectre-Was-ist-passiert-bin-ich-betroffen-wie-kann-ich-mich-schuetzen-3938146.html","title":"FAQ
+ zu Meltdown und Spectre bei
+heise.de"}],"url_explanation":[{"url":"https:\/\/support.mozilla.org\/de\/kb\/firefox-auf-die-letzte-version-aktualisieren","title":"Firefox
+ auf die neueste Version
+aktualisieren"},{"url":"https:\/\/support.google.com\/chrome\/answer\/95414?co=GENIE.Platform%3DDesktop\u0026hl=de","title":"Chrome
+ auf die neueste Version
+aktualisieren"},{"url":"https:\/\/support.apple.com\/de-de\/safari","title":"Safari
+ auf die neueste Version
+aktualisieren"},{"url":"http:\/\/update.microsoft.com\/","title":"Windows
+
+aktualisieren"},{"url":"https:\/\/support.google.com\/nexus\/answer\/4457705?hl=de","title":"Android
+
+aktualisieren"},{"url":"https:\/\/support.apple.com\/de-de\/HT204204","title":"iOS
+
+aktualisieren"},{"url":"https:\/\/support.apple.com\/de-de\/HT201541","title":"macOS
+
+aktualisieren"}],"id":"2176"},
+
+
+
+{"published_date":"1517475600","level":"1","title":"Firefox:
+ Sicherheitsupdate schlie\u00dft kritische
+Sicherheitsl\u00fccke","body":"Im Webbrowser Firefox wurde eine
+schwerwiegende Schwachstelle entdeckt, mit deren Hilfe Angreifer
+Schadsoftware auf dem Rechner eines Nutzers ausf\u00fchren k\u00f6nnen.
+Besonders problematisch ist hierbei, dass schon der Besuch einer
+pr\u00e4parierten Webseite ausreichen kann, um den Schadcode
+auszuf\u00fchren und den Rechner zu infizieren.\r\n\r\nMozilla hat
+bereits ein Sicherheitsupdate ver\u00f6ffentlicht, dass die L\u00fccke
+schlie\u00dft. SiBa r\u00e4t Firefox-Nutzern, die Version 58.0.1 so
+schnell wie m\u00f6glich zu installieren bzw. zu \u00fcberpr\u00fcfen,
+ob diese Version bereits durch ein automatisches Update aufgespielt
+wurde.","categories":["123","131"],
+"url_action":[{"url":"https:\/\/www.bsi-fuer-buerger.de\/SharedDocs\/Warnmeldungen\/DE\/TW\/2018\/01\/warnmeldung_tw-t18-0018.html","title":"Warnung
+ des BSI f\u00fcr
+B\u00fcrger"}],"url_explanation":[{"url":"https:\/\/support.mozilla.org\/de\/kb\/firefox-auf-die-letzte-version-aktualisieren","title":"Hilfeseite
+ zur Aktualisierung von
+Firefox"}],"id":"2173"},
+
+
+
+{"published_date":"1517137200","level":"1","title":"Schwerwiegende
+ Sicherheitsl\u00fccken beim Anwaltspostfach
+beA","body":"Sicherheitsexperten haben in der Software des
+Anwaltspostfachs beA kritische Schwachstellen entdeckt. Mit deren Hilfe
+k\u00f6nnen Angreifer die komplette Kontrolle \u00fcber Rechner
+\u00fcbernehmen, auf denen das Programm installiert ist. Die
+Rechtsanwaltskammer empfiehlt deshalb Anw\u00e4lten die vorl\u00e4ufige
+Deaktivierung der Software, bis ein entsprechendes Sicherheitsupdate
+bereitstellt.\r\n\r\nBereits im Dezember wurde eine
+Sicherheitsl\u00fccke entdeckt \u2013 infolgedessen wurden die
+zugeh\u00f6rigen Server abgeschaltet. Es ist unklar, wie lange die
+Server angesichts der neuen L\u00fccke nun offline bleiben
+werden.\r\n\r\nBetroffene Anw\u00e4lte sollten die installierte Software
+ entweder deinstallieren oder zumindest die mitgelieferte \u201eClient
+Security\u201c-Komponente schlie\u00dfen und aus dem Autostart des
+Rechners
+entfernen.","categories":["128","130","125","123","131"],
+"url_action":[{"url":"http:\/\/www.brak.de\/fuer-journalisten\/pressemitteilungen-archiv\/2018\/presseerklaerung-04-2018\/","title":"Empfehlung
+ der
+Rechtsanwaltskammer"}],"url_explanation":[{"url":"http:\/\/www.giga.de\/downloads\/windows-10\/tipps\/windows-10-7-autostart-programme-deaktivieren-hinzufuegen-aufraeumen-so-gehts\/","title":"Programm
+ aus Autostart entfernen bei Windows 7 und
+10"}],"id":"2168"},
+
+
+{"published_date":"1516787100","level":"1","title":"Sicherheitsl\u00fccke
+ Meltdown: Aufatmen bei Apple Nutzern","body":"Apple hat in der Nacht zu
+ Mittwoch die \u00e4lteren macOS Versionen El Capitan (10.11) und Sierra
+ (10.12) gegen die Meltdown-L\u00fccke abgesichert. Nutzer der aktuellen
+ Version High Sierra hatten bereits im Dezember Patches f\u00fcr die
+schwerwiegende Prozessorl\u00fccke erhalten.\r\n\r\nNutzer dieser sehr
+verbreiteten Versionen sollten diese dringend einspielen. Bei der
+Gelegenheit ist es ratsam, auch den Internetbrowser Safari zu
+aktualisieren. So wird ein schwerwiegendes Problem behoben, welches
+schwerwiegende Angriffe erm\u00f6glicht h\u00e4tte.\r\n\r\nZuvor hatte
+Intel vor \u201eunvorhersehbaren\u0022 Problemen gewarnt, die durch das
+Einspielen der Updates gegen die gro\u00dfen Sicherheitsl\u00fccken
+Meltdown und Spectre in Millionen Computerprozessoren entstehen
+k\u00f6nnen. Bei einigen Prozessortypen f\u00fchrt das Update zu
+zahlreichen Neustarts und einem ungew\u00f6hnlichen Verhalten der
+Rechner. Intel empfiehlt deshalb allen Unternehmen und Verbrauchern, die
+ aktuellen Updateversionen nicht aufzuspielen. Verbesserte Updates
+sollen in dieser Woche bereitgestellt
+werden.\r\n\r\n","categories":["129","128","130","125","132","123","127","124","126","131"],
+"url_action":[{"url":"https:\/\/support.apple.com\/de-de\/HT201222","title":"Update
+ der macOS Versionen El Capitan (10.11) und Sierra
+(10.12)"}],"url_explanation":[{"url":"https:\/\/support.apple.com\/de-de\/HT204416","title":"
+ Safari
+aktualisieren"},{"url":"https:\/\/support.apple.com\/de-de\/HT204204","title":"iOS
+ auf Updates
+pr\u00fcfen"},{"url":"https:\/\/support.google.com\/nexus\/answer\/4457705?hl=de","title":"Android
+ auf Updates
+pr\u00fcfen"},{"url":"http:\/\/update.microsoft.com\/windowsupdate\/v6\/default.aspx","title":"Windows
+ auf Updates
+pr\u00fcfen"}],"id":"2162"},
+
+
+
+{"published_date":"1516608900","level":"1","title":"Gef\u00e4lschte
+ E-Mails fordern zur Zahlung f\u00fcr WhatsApp
+auf","body":"Betr\u00fcger versenden derzeit E-Mails, in denen Sie
+behaupten, dass die kostenlose Nutzung des Messengers WhatsApp
+abgelaufen sei und nun die Entrichtung einer Geb\u00fchr in H\u00f6he
+von 99 Cent pro Jahr erforderlich sei. Komme man dieser
+Zahlungsaufforderung nicht nach, so werde das Konto innerhalb von 48
+Stunden gesperrt. Zur Zahlung werden die Empf\u00e4nger auf eine
+Webseite geleitet, auf der sie mit ihren Kreditkartendaten zahlen
+k\u00f6nnen.\r\n\r\nSowohl E-Mail als auch Webseite sehen optisch nicht
+besonders \u00fcberzeugend aus und enthalten zahlrieche Rechtschreib-
+und Grammatikfehler. Dennoch wirkt der geforderte Betrag von 99 Cent pro
+ Jahr nicht wie Abzocke \u2013 tats\u00e4chlich geht es den
+Betr\u00fcgern auch gar nicht um diese Summe, sondern um die
+Kreditkartendaten: Mit diesen k\u00f6nnen sie anschlie\u00dfend viel
+gr\u00f6\u00dfere Summen ergaunern.\r\n\r\nSiBa r\u00e4t bei solchen und
+ \u00e4hnlichen E-Mails zu gro\u00dfer Vorsicht: Wird eine sehr
+kurzfristige Zahlung verlangt? Enth\u00e4lt die E-Mail oder Webseite
+viele Rechtschreibfehler? Machen Absender der E-Mail bzw. die URL der
+Webseite keinen Sinn? Werden Sie unter Druck gesetzt?\r\n\r\nSollten Sie
+ aus irgendeinem Grund Verdacht sch\u00f6pfen, kontaktieren Sie den
+angeblichen Absender um zu kl\u00e4ren, ob die Rechnung tats\u00e4chlich
+ echt ist! Nutzen Sie daf\u00fcr am besten eine offizielle Telefonnummer
+ oder Kontakt-Adresse, die Sie auf der offiziellen Webseite
+finden.","categories":["128","123","127","124","126"],
+"url_action":[{"url":"https:\/\/www.polizei-praevention.de\/aktuelles\/abzock-und-phishingmail-fordert-zur-zahlung-fuer-whatsapp-auf.html","title":"Artikel
+ zu den Betrugsnachrichten beim Ratgeber
+Internetkriminalit\u00e4t"},{"url":"http:\/\/www.polizei-beratung.de\/themen-und-tipps\/gefahren-im-internet\/phishing\/?L=0","title":"Webseite
+ zum Thema Phishing bei der Polizeilichen
+Kriminalpr\u00e4vention"}],"url_explanation":[{"url":"http:\/\/www.klicksafe.de\/themen\/rechtsfragen-im-netz\/irights\/betrug-im-internet\/teil-3-was-tun-wenn-ich-eine-phishing-e-mail-bekommen-habe\/","title":"Handlungsempfehlungen
+ bei
+klicksafe.de"}],"id":"2158"},
+
+
+
+
+{"published_date":"1516271400","level":"1","title":"Skygofree:
+ Umfangreicher Android-Trojaner","body":"Sicherheitsforscher haben einen
+ neuen Trojaner namens \u201cSkygofree\u201d entdeckt, der Ger\u00e4te
+mit Android bef\u00e4llt. Die Schadsoftware nistet sich auf
+entsprechenden Ger\u00e4ten tief im System ein und erm\u00f6glicht es
+den Angreifern, aus der Ferne die Kontrolle zu
+\u00fcbernehmen.\r\n\r\nSo kann Skygofree unter anderem Bilder und
+Videos aufnehmen, Audioaufnahmen starten, SMS-Nachrichten und
+Standort-Informationen auslesen und unter bestimmten Voraussetzungen
+sogar WhatsApp-Nachrichten indirekt mitlesen: Dabei wird die
+Verschl\u00fcsselung der Nachrichten nicht aufgehoben, sondern das Bild
+mitgeschnitten, wenn Nutzer WhatsApp \u00f6ffnen.\r\n\r\nDie
+Schadsoftware stammt aus Italien und treibt bislang vor allem dort sein
+Unwesen. Verbreitet wird der Trojaner vor allem \u00fcber
+gef\u00e4lschte Seiten von Mobilfunkunternehmen \u2013 per
+Phishing-E-Mail werden Empf\u00e4nger dorthin gelotst. Derzeit ist noch
+unklar, wie die Infektion mit dem Trojaner tats\u00e4chlich
+stattfindet.\r\n\r\nSiBa r\u00e4t grunds\u00e4tzlich zu
+gr\u00f6\u00dfter Vorsicht beim Umgang mit dubiosen Mails: Vergewissern
+Sie sich immer sorgf\u00e4ltig, ob eine E-Mail echt ist, und \u00f6ffnen
+ Sie im Zweifel keine Links oder Anh\u00e4nge. Halten Sie dar\u00fcber
+hinaus Ihre Software, also auch das Android-Betriebssystem, immer auf
+dem aktuellen Stand und nutzen Sie zus\u00e4tzliche Software zum Schutz
+vor Viren und
+Trojanern.","categories":["128","127","131"],
+"url_action":[{"url":"https:\/\/www.bsi-fuer-buerger.de\/BSIFB\/DE\/Empfehlungen\/BasisschutzGeraet\/EinrichtungMobileGeraete\/EinrichtungMobileGeraete_node.html","title":"Schutz
+ f\u00fcr Smartphone \u0026 Co. beim BSI f\u00fcr
+B\u00fcrger"},{"url":"https:\/\/www.polizei-praevention.de\/themen-und-tipps\/phishing.html","title":"Seite
+ zum Thema Phishing beim Ratgeber
+Internetkriminalit\u00e4t"}],"url_explanation":[{"url":"https:\/\/www.botfrei.de\/de\/anleitungen\/android.html","title":"Seite
+ zu Android bei
+botfrei.de"}],"id":"2157"},
+
+
+
+
+{"published_date":"1515763800","level":"1","title":"Gef\u00e4lschte
+ BSI-Mail mit angeblichem Meltdown-\/Spectre-Patch","body":"Unter den
+Namen \u201cMeltdown\u201d und \u201cSpectre\u201d sind derzeit zwei
+Angriffsszenarien in den Medien pr\u00e4sent, mit deren Hilfe Kriminelle
+ die k\u00fcrzlich entdeckten Sicherheitsl\u00fccken in Prozessoren
+ausnutzen k\u00f6nnen (siehe SiBa-Meldung vom 04.01.).\r\n\r\nDie
+intensive Berichterstattung \u00fcber die beiden Szenarien versuchen
+Angreifer nun auszunutzen: Sie verschicken eine gef\u00e4lschte E-Mail
+im Namen des Bundesamts f\u00fcr Sicherheit in der Informationstechnik
+(BSI), in der sie den Empf\u00e4nger dar\u00fcber informieren, dass
+dessen Endger\u00e4t angeblich f\u00fcr Meltdown und Spectre verwundbar
+sei.\r\n\r\nZur vermeintlichen Abhilfe liefert die E-Mail ein
+angebliches Sicherheitspatch mit, das das BSI mit den Herstellern AMD
+und Intel entwickelt habe. Die Patch-Datei befindet sich dabei nicht im
+Anhang der Nachricht, sondern auf einer ebenfalls gef\u00e4lschten
+BSI-Webseite. Diese Datei sollte auf keinen Fall installiert werden: Es
+handelt sich hierbei um Schadsoftware!\r\n\r\nE-Mail und Webseite sind
+gut gemacht und auf den ersten Blick nicht als F\u00e4lschungen
+erkennbar \u2013 letztere verf\u00fcgt sogar \u00fcber ein g\u00fcltiges
+ Zertifikat. Ein Blick in die Absenderzeile der E-Mail verr\u00e4t
+jedoch den Betrug. Es ist bislang unklar, was der Trojaner auf
+befallenen Systemen macht \u2013 nur rund die H\u00e4lfte der aktuellen
+Virenscanner erkennt den sch\u00e4dlichen Inhalt der Datei.\r\n\r\nSiBa
+r\u00e4t, bei entsprechenden Sicherheitshinweisen vorsichtig zu sein:
+Oft versuchen Betr\u00fcger durch Panikmache Empf\u00e4nger unter Druck
+zu setzen, sodass diese nicht mehr sorgf\u00e4ltig pr\u00fcfen, ob eine
+Nachricht\/Warnung echt ist. \u00dcberpr\u00fcfen Sie erst
+unabh\u00e4ngig von den Links in der E-Mail, ob der angebliche Absender
+eine entsprechende Nachricht herausgegeben hat. Halten Sie dar\u00fcber
+hinaus Ihr System immer auf dem aktuellen Stand, inklusive
+Virenschutz.","categories":["128","123","127","131"],
+"url_action":[{"url":"https:\/\/www.bsi-fuer-buerger.de\/BSIFB\/DE\/Service\/Aktuell\/Informationen\/Artikel\/Vorsicht_gefaelschte_BSI_Webseite_11012018.html","title":"Warnung
+ des BSI vor der gef\u00e4lschten
+E-Mail"}],"url_explanation":[{"url":"https:\/\/www.bsi-fuer-buerger.de\/BSIFB\/DE\/Risiken\/SpamPhishingCo\/Phishing\/phishing_node.html","title":"BSI-Seite
+ zum Thema Phishing"}],"id":"2152"}]
